@@ -1,2 +1,2 @@
 # urera
-VIsual essay on Urera
+Visual essay on Urera
